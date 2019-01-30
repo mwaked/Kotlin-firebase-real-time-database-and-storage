@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealTimeFirebase</string>
+    <string name="dialog_title_upload_your_Image">Upload Your Image...</string>
+</resources>
